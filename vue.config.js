@@ -1,4 +1,5 @@
 module.exports = {
+  outputDir: "docs",
   pwa: {
     manifestOptions: {
       background_color: "black",
