@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b8260372724b40e3b4695597417a394a.js"
+  "/precache-manifest.a08f99bbedb67fc343cbb286e199daca.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sofia-project"});
